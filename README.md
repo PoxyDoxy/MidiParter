@@ -1,6 +1,10 @@
 # MidiParter
 Splits a .mid (MIDI) Sound Track into its separate Channels / Tracks / Instruments.
-![MidiParter in use](https://raw.githubusercontent.com/PoxyDoxy/MidiParter/master/Images%20and%20Icons/midiparter_picture2.JPG)
+
+Download from [/releases/latest](https://github.com/PoxyDoxy/MidiParter/releases/latest)
+
+![MidiParter in use](Images%20and%20Icons/midiparter_picture2.JPG)
+
 ## Features
 MidiParter can:
  - Split a single .mid (midi file) into seperate .mid Tracks/Channels.
